@@ -13,19 +13,27 @@ description: 既存のフォルダをGAS_PROJECT配下のGitHubリポジトリ�
   - たとえ現在の名前が `kebab-case` であっても、より適切な名前があれば提案します（例: `test` -> `ai-agent-controller`）。
   - ユーザーに改名を確認し、承認されたらフォルダ名を変更します。
 
-## Step 2: Gitの初期化
+## Step 2: Gitの初期化 // turbo
 - `git init` を実行します。
-- `.gitignore` を作成し、標準的な除外設定（OSファイル、ログなど）を追加します。
+- `.gitignore` を作成し、以下の項目を必ず除外設定に追加します：
+  - `GAS_PROJECT/` (親プロジェクトの管理フォルダ)
+  - `ANTIGRAVITY_AGENT_CONTROL_SPEC.MD` (エージェント仕様書)
+  - `*_SPEC.MD`
+  - その他OS標準の除外ファイル（.DS_Store, Thumbs.db等）
 
-## Step 3: 初回コミット
+## Step 3: 初回コミット // turbo
 - `git add .` を実行してファイルをステージングします。
 - `git commit -m "Initial commit"` でコミットします。
 
-## Step 4: GitHubリポジトリの作成
+## Step 4: GitHubリポジトリの作成 // turbo
 - `gh repo create` を実行します。
-  - パブリックかプライベートか、必要に応じてユーザーに確認します。
-- ローカルとリモートをリンクします。
+  - デフォルトで **Private** リポジトリとして作成します（`--private`）。
+  - ソースは現在のディレクトリ（`--source=.`）。
+  - リモート名は `origin`。
 
-## Step 5: プッシュ
-- `git push -u origin main` （または master）を実行して完了です。
+## Step 5: ブランチ設定とプッシュ // turbo
+- デフォルトブランチを `main` に設定します。
+  - `git branch -m master main`
+- `git push -u origin main` を実行します。
+- 必要に応じて GitHub 上のデフォルトブランチ設定も `main` に更新し、古い `master` ブランチがあれば削除します。
 
