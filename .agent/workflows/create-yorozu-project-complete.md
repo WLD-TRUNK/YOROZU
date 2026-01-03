@@ -1,4 +1,4 @@
----
+﻿---
 description: ユーザー指定のリポジトリを作成し、YOROZUブランド化、コミット、リリース作成までを一気通貫で行います
 ---
 # 🚀 YOROZU プロジェクト完全作成ワークフロー
@@ -8,29 +8,29 @@ description: ユーザー指定のリポジトリを作成し、YOROZUブラン�
 ## Step 1: 📂 リポジトリの準備と初期化 // turbo
 1. **フォルダ作成**: 指定されたプロジェクト名のフォルダがなければ作成し、移動します。
 2. **リポジトリ化**: `/create-repo-from-folder` を実行します。
-   - **Privacy**: Privateリポジトリとして作成します。
-   - **Branch**: `main` ブランチを作成します。
+   - **公開設定**: Privateリポジトリとして作成します。
+   - **ブランチ**: `main` ブランチを作成します。
 
 ## Step 2: 🏗️ アプリケーションの実装
 - `/build-app-simple` を実行します。
   - ユーザーの要件（作成したいアプリの内容）に基づいて、HTML/CSS/JSで実装を行います。
-  - **重要**: YOROZU Identityを適用する前に、まずアプリ自体の機能を完成させます。
+  - **重要**: YOROZU意匠を適用する前に、まずアプリ自体の機能を完成させます。
 
-## Step 3: 🌸 YOROZU Identityの適用 // turbo
+## Step 3: 🌸 YOROZU意匠の適用 // turbo
 - `/update-yorozu-identity` を実行します。
   1. **ヘッダー生成**: 「リポジトリ名」を含んだMiyabiスタイルのヘッダー画像を作成します。
-  2. **README更新**: ヘッダー画像を最上部に配置し、GitHub Alertsを追加します。
+  2. **README更新**: ヘッダー画像を最上部に配置し、GitHubアラートを追加します。
 
 ## Step 4: 💾 変更のコミット // turbo
-- `/git-auto-commit` の戦略に基づき、Identity適用の変更をコミットします。
-  - **Type**: `style` または `docs`
-  - **メッセージ**: "✨ style: Apply YOROZU identity and documentation"
+- `/git-auto-commit` の戦略に基づき、意匠適用の変更をコミットします。
+  - **種別**: `style` または `docs`
+  - **メッセージ**: "✨ style: YOROZU意匠（ヘッダー・README）を適用"
 
   ```bash
   git add .
   ```
   ```bash
-  git commit -m "✨ style: YOROZUブランド（ヘッダー・README）を適用" -m "- Miyabiスタイルヘッダー画像の生成" -m "- READMEレイアウトの標準化とAlerts導入"
+  git commit -m "✨ style: YOROZU意匠（ヘッダー・README）を適用" -m "- Miyabiスタイルヘッダー画像の生成" -m "- READMEレイアウトの標準化とアラート導入"
   ```
   ```bash
   git push origin main

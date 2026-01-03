@@ -7,7 +7,7 @@ description: プロンプト管理専用のリポジトリを作成します
 
 ## Step 1: セットアップ // turbo
 - **名前決定**: リポジトリ名を決定します（デフォルト: `prompt-management`）。
-- **フォルダ作成**: `GAS_PROJECT` 配下にフォルダを作成します。
+- **フォルダ作成**: `YOROZU_PROJECT` 配下にフォルダを作成します。
 
 ## Step 2: 初期化
 - `git init` を実行します。

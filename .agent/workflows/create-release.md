@@ -35,9 +35,9 @@ description: Semantic Versioningに基づくリリース作成と、バージョ
 ## Step 3: 🎨 リリース用ヘッダー画像生成
 - `assets/header_prompt.txt` の内容をベースに、**リポジトリ名とバージョン番号** を含む画像を生成します。
 - **プロンプト構築**:
-  - ベース: `assets/header_prompt.txt` (Miyabi style)
-  - 追加指示: "Include text '[RepoName] [Version]' elegantly..."
-  - **重要**: "NO Kanji" ルールを維持します。
+  - ベース: `assets/header_prompt.txt` (Miyabiスタイル)
+  - 追加指示: 「英字の『[RepoName] [Version]』を上品に配置する」
+  - **重要**: 画像内の文字は英字のみとし、漢字・ひらがな・カタカナは含めません。
 - **生成と保存**:
   - ツール: `generate_image`, `scripts/crop_header.ps1`
   - 保存先: `assets/release_header_[version].png`
@@ -59,10 +59,11 @@ git log --format='%an' [前タグ]..HEAD | sort -u
 ### 4.2 テンプレート適用
 - `templates/release_notes_template.md` をベースに生成
 - 各セクションをコミット分析結果で埋める
-- Breaking Changesがある場合はマイグレーションガイドを必須で含める
+- 破壊的変更がある場合はマイグレーションガイドを必須で含める
+- 見出し・本文は日本語で統一する（固有名詞は英語併記可）
 
 ### 4.3 品質チェック
-- [ ] Overview が3文以内で要点を伝えているか
+- [ ] 概要 が3文以内で要点を伝えているか
 - [ ] 各変更にPR/Issueリンクがあるか
 - [ ] コード例が動作するか
 - [ ] 画像/GIFが適切に表示されるか
