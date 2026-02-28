@@ -1,0 +1,1334 @@
+{
+  "as_of": "2026-02-09T22:22:19",
+  "root_page_id": "2f2d8928-02b6-809c-963e-c1c05ef26aa0",
+  "root_title": "CODEX_家計簿_ver.0",
+  "tree": [
+    {
+      "depth": 0,
+      "type": "image",
+      "id": "2f2d8928-02b6-8134-b567-d373b6dc1794",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "toggle",
+      "id": "2f2d8928-02b6-8161-89d2-cdbb23e3d996",
+      "text": "スマホ用Home| |スマート登録| |",
+      "has_children": true
+    },
+    {
+      "depth": 1,
+      "type": "divider",
+      "id": "2f2d8928-02b6-819f-a856-d7f1e576231b",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 1,
+      "type": "toggle",
+      "id": "2f2d8928-02b6-816d-8f35-e151ec14ca37",
+      "text": "最近の支出（10件）| |ローン返済DB| |   日別集計DB | | 月別集計DB| |B/S_DB| | ",
+      "has_children": true
+    },
+    {
+      "depth": 2,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81b6-9a7a-caecc382307b",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "column_list",
+      "id": "2f2d8928-02b6-81bd-91a7-de6ef1907e3e",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 3,
+      "type": "column",
+      "id": "2f2d8928-02b6-81d4-8370-e1a1366c1e0b",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81df-9057-e8488b3df369",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_page",
+      "id": "2f2d8928-02b6-81c5-b6a8-dc1325fe100a",
+      "text": "最近の支出（10件）",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "callout",
+      "id": "2f2d8928-02b6-8189-8a2e-ca3ad2edff02",
+      "text": "L I N K | |支出DB| |収入DB| |",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "callout",
+      "id": "2f2d8928-02b6-819c-973a-f543e61ed337",
+      "text": "最近の支出最近（10件）",
+      "has_children": true
+    },
+    {
+      "depth": 6,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81d5-a9e5-f27b83e9c4a3",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-8130-b2df-d7dbd307fe6b",
+      "text": "最近の支出（10件）支出DB Untitled  (1)",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81ae-b9c8-f25e30824c9c",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "callout",
+      "id": "2f2d8928-02b6-8106-9db4-eb1f32c62478",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-811e-a20c-e7d2c107292a",
+      "text": "カテゴリー別集計グラフ",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_page",
+      "id": "2f2d8928-02b6-8185-a864-c03317462fe3",
+      "text": "スマート登録",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "callout",
+      "id": "2f2d8928-02b6-81d6-b25d-e8d014042de8",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 6,
+      "type": "heading_3",
+      "id": "2f2d8928-02b6-8119-b184-f1f9c10cfe73",
+      "text": "| |CODEX_家計簿_ver.0| |スマート登録| |",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81cb-bfd6-e42d573f40e0",
+      "text": "I N P U T",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81a7-aeb8-f69af7134630",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-8165-81bf-d1b47edeeb60",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-8168-8b9d-f6eb3c44de8b",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-81a7-9fe7-c4a6702baae9",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-81ba-8a42-cf4ee3750533",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-811d-a1e6-f2d3c61a9993",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-817b-a24d-cec5ed44f777",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-816b-9572-c2bbb9c18b9c",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-81cb-89a4-caa88e1c56cd",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-8112-bfa2-c09269897833",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-8187-b2dd-cb6f16789630",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-8181-ab86-f62bc6a06a91",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-813d-ad9e-e57d718a121d",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-81bb-9465-efa92fd2f0f5",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-817e-90d3-c9038059c369",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-815f-bc2c-f0e6c31384cc",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-8129-9a64-c374c847758d",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-81f1-9c4d-f5d0f5dac8af",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-810b-9ba3-f53c9b112e4e",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-8128-8e22-f3f85b564998",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-8120-a249-ff6ca2b8a97e",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81cd-bc32-d9773c7bf243",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81f3-afc8-cfc6b85932a6",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 3,
+      "type": "column",
+      "id": "2f2d8928-02b6-814c-97b8-c40b410a0343",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-819d-accd-fd6fd091aa93",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-8103-a6cd-cd0ca1b8eafa",
+      "text": "収入DB",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-8171-a50b-ff20b7fa8a18",
+      "text": "支出DB",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-81ba-9e41-cfd0d27dac0d",
+      "text": "貯蓄DB",
+      "has_children": false
+    },
+    {
+      "depth": 3,
+      "type": "column",
+      "id": "2f2d8928-02b6-81b7-8752-c8c47af29ecd",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8127-a4ea-e04deaffd72a",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-81ba-98bc-c475a7ddccb2",
+      "text": "B/S_DB",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-8146-95c7-d72c6520ef55",
+      "text": "ローン返済DB",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-81d9-b320-c798810c7bc9",
+      "text": "ローンDB",
+      "has_children": false
+    },
+    {
+      "depth": 3,
+      "type": "column",
+      "id": "2f2d8928-02b6-81d2-8294-d97a19d1b437",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-810b-954e-e6fe22826fec",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-812d-9afb-d5c59976e253",
+      "text": "カテゴリー別集計DB",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-8120-8269-d02a8d4ca934",
+      "text": "日別集計DB",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-8115-a87a-d43db1f010b6",
+      "text": "月別集計DB",
+      "has_children": false
+    },
+    {
+      "depth": 3,
+      "type": "column",
+      "id": "2f2d8928-02b6-81f7-a8f9-f20ae0ffd556",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81d4-8e6f-ddce5cb0aae5",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_page",
+      "id": "2f2d8928-02b6-81fc-9e2b-c2e139bd9914",
+      "text": "スマホ用Home",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "heading_3",
+      "id": "2f2d8928-02b6-81b4-94b8-cc43d291ddc9",
+      "text": "| |CODEX_家計簿_ver.0| |スマート登録| |",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "heading_1",
+      "id": "2f2d8928-02b6-81c8-bb76-de5439a55909",
+      "text": "🗓️消費カレンダー",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-81fb-93c6-dcc275d0b308",
+      "text": "Untitled",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-814c-addb-f792b9eed461",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-810e-84d1-c3edf09c5738",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-816b-ab07-fca4d76baff4",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "callout",
+      "id": "2f2d8928-02b6-8151-91d4-e945c7215b78",
+      "text": "最近の支出",
+      "has_children": true
+    },
+    {
+      "depth": 6,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81e7-a024-ed6969bdc5c5",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "heading_3",
+      "id": "2f2d8928-02b6-8183-b078-cd6f458c6016",
+      "text": "最近（10件）",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-819f-b13a-c3489594732e",
+      "text": "最近の支出（10件）支出DB Untitled  (1)",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8109-9c87-c9835a2cd0c3",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-81f1-9510-e9f11e067dbb",
+      "text": "中間DB",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-8167-a9e2-cc44000843a0",
+      "text": "LIST",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81d2-a3a1-e0a9d2884f2b",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "column_list",
+      "id": "2f2d8928-02b6-815c-be43-cba37601f1b5",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 1,
+      "type": "column",
+      "id": "2f2d8928-02b6-81fe-8dc6-f26d4d0502ac",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 2,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-8109-9e2d-d47da6389cab",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-818b-92e4-c2ffe9a79994",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 1,
+      "type": "column",
+      "id": "2f2d8928-02b6-81a7-adb7-fe1e468e27bc",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 2,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-816f-8124-d0a29af68e43",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "callout",
+      "id": "2f2d8928-02b6-81fa-b085-c18ec3448111",
+      "text": "✼••┈ T I C K E T ┈••✼",
+      "has_children": true
+    },
+    {
+      "depth": 3,
+      "type": "divider",
+      "id": "2f2d8928-02b6-8164-82fd-f7accfc37660",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 3,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-81bb-9085-f2b4e4939e55",
+      "text": "New database",
+      "has_children": false
+    },
+    {
+      "depth": 3,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8134-b24e-ee2dd92d2d51",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "callout",
+      "id": "2f2d8928-02b6-8122-98fd-d08ae5b05269",
+      "text": "✼••┈ B/S  ┈••✼",
+      "has_children": true
+    },
+    {
+      "depth": 3,
+      "type": "divider",
+      "id": "2f2d8928-02b6-8122-bd5e-c04295c90943",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 3,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-81c4-80bd-d58e9957e6e1",
+      "text": "Untitled",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-810c-8b22-efe3b5399f38",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 1,
+      "type": "column",
+      "id": "2f2d8928-02b6-81cf-af3f-e632be87d3c1",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 2,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81b3-ae20-fcd635a58f4c",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81c4-aa4c-d3ec68d05d4a",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "image",
+      "id": "2f2d8928-02b6-81eb-8ef9-fcbabe88f797",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81a6-bf39-ea80b96b12be",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8157-8361-cf97d3ef901b",
+      "text": "",
+      "has_children": false
+    }
+  ],
+  "child_page_ids": [
+    "2f2d8928-02b6-8185-a864-c03317462fe3",
+    "2f2d8928-02b6-81c5-b6a8-dc1325fe100a",
+    "2f2d8928-02b6-81fc-9e2b-c2e139bd9914"
+  ],
+  "database_schemas": [
+    {
+      "id": "2f2d8928-02b6-8103-a6cd-cd0ca1b8eafa",
+      "title": "収入DB",
+      "url": "https://www.notion.so/2f2d892802b68103a6cdcd0ca1b8eafa",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "カテゴリー",
+          "id": "i%5CDJ",
+          "type": "select"
+        },
+        {
+          "name": "収入",
+          "id": "FUmt",
+          "type": "number"
+        },
+        {
+          "name": "日付",
+          "id": "%7BUNn",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-8115-a87a-d43db1f010b6",
+      "title": "月別集計DB",
+      "url": "https://www.notion.so/2f2d892802b68115a87ad43db1f010b6",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "中間DB",
+          "id": "ZM%7Ci",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81f1-9510-e9f11e067dbb",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "予算",
+          "id": "%7BcA%40",
+          "type": "number"
+        },
+        {
+          "name": "収入 - 支出",
+          "id": "ehgI",
+          "type": "formula",
+          "formula_expression": "{{notion:block_property:FavK:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} - {{notion:block_property:KXX%3F:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}"
+        },
+        {
+          "name": "収入合計",
+          "id": "FavK",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\tincome,{{notion:block_property:ZM%7Ci:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:POmq:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月単位でデータをフィルター */\n\ttotal, income.filter(formatDate(current.{{notion:block_property:%7BUNn:1c2d8928-02b6-8116-af6c-000b268e1763:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == {{notion:block_property:sxPi:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + {{notion:block_property:%60%3ABy:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 収入を合計 */\n\tprice, total.map(current.{{notion:block_property:FUmt:1c2d8928-02b6-8116-af6c-000b268e1763:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "年",
+          "id": "sxPi",
+          "type": "select"
+        },
+        {
+          "name": "支出 / 予算",
+          "id": "%3DwOY",
+          "type": "formula",
+          "formula_expression": "floor({{notion:block_property:KXX%3F:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} / {{notion:block_property:%7BcA%40:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} * 100) / 100"
+        },
+        {
+          "name": "支出 / 収入",
+          "id": "QMnZ",
+          "type": "formula",
+          "formula_expression": "floor({{notion:block_property:KXX%3F:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} / {{notion:block_property:FavK:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} * 100) / 100"
+        },
+        {
+          "name": "支出合計",
+          "id": "KXX%3F",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome,{{notion:block_property:ZM%7Ci:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == {{notion:block_property:sxPi:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + {{notion:block_property:%60%3ABy:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "月",
+          "id": "%60%3ABy",
+          "type": "rich_text"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-811e-a20c-e7d2c107292a",
+      "error": "400 Client Error: Bad Request for url: https://api.notion.com/v1/databases/2f2d8928-02b6-811e-a20c-e7d2c107292a"
+    },
+    {
+      "id": "2f2d8928-02b6-8120-8269-d02a8d4ca934",
+      "title": "日別集計DB",
+      "url": "https://www.notion.so/2f2d892802b681208269d02a8d4ca934",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "日付",
+          "id": "AUGu",
+          "type": "date"
+        },
+        {
+          "name": "日別_合計",
+          "id": "O~%3AL",
+          "type": "formula",
+          "formula_expression": "lets(\n  b, {{notion:block_property:sFG%3B:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},               /* ← 文字列でプロパティ名。配列(ページリスト)が返る */\n  if(length(b) == 0, 0,               /* 未リンクは 0 を返して安全に抜ける */\n    lets(\n      bridge, b.at(0),                /* 中間ページ（1件のみ想定） */\n      list, bridge.{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},   /* ← ここで「中間DBから全支出を取得」している */\n      dkey, formatDate({{notion:block_property:AUGu:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMMDD\"),\n      rows, list.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMMDD\") == dkey),\n      rows.map(toNumber(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}})).sum()\n    )\n  )\n)\n"
+        },
+        {
+          "name": "消費合計",
+          "id": "yVME",
+          "type": "formula",
+          "formula_expression": "lets(\n  total, toNumber({{notion:block_property:O~%3AL:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n  d, floor(total / 5000),\n  r, total - d * 5000,\n  t, ceil(r / 500),\n  \"🎟️\" + format(t) + \"  💎\" + format(d)\n)\n"
+        },
+        {
+          "name": "🎟️枚",
+          "id": "jc%40%5C",
+          "type": "formula",
+          "formula_expression": "lets(total, toNumber({{notion:block_property:O~%3AL:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n     d, floor(total/5000),\n     r, total - d*5000,\n     ceil(r/500))\n"
+        },
+        {
+          "name": "💎枚",
+          "id": "zqZN",
+          "type": "formula",
+          "formula_expression": "lets(total, toNumber({{notion:block_property:O~%3AL:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}), floor(total / 5000))\n"
+        },
+        {
+          "name": "🚧 中間DB",
+          "id": "sFG%3B",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81f1-9510-e9f11e067dbb",
+          "synced_property_name": null,
+          "synced_property_id": null
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-812d-9afb-d5c59976e253",
+      "title": "カテゴリー別集計DB",
+      "url": "https://www.notion.so/2f2d892802b6812d9afbd5c59976e253",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "10月",
+          "id": "rS~%60",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月カテゴリー単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYM\") == {{notion:block_property:WKNE:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + 10 and current.{{notion:block_property:yFUG:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "11月",
+          "id": "HppF",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月カテゴリー単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYM\") == {{notion:block_property:WKNE:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + 11 and current.{{notion:block_property:yFUG:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "12月",
+          "id": "HnLk",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月カテゴリー単位でデータをフィルター */\n\ttotal, outcome.filter(and(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYM\") == {{notion:block_property:WKNE:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + 12, current.{{notion:block_property:yFUG:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}})),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "1月",
+          "id": "rIBa",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月カテゴリー単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYM\") == {{notion:block_property:WKNE:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + 1 and current.{{notion:block_property:yFUG:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "2月",
+          "id": "bZkR",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月カテゴリー単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYM\") == {{notion:block_property:WKNE:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + 2 and current.{{notion:block_property:yFUG:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "3月",
+          "id": "gBbJ",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月カテゴリー単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYM\") == {{notion:block_property:WKNE:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + 3 and current.{{notion:block_property:yFUG:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "4月",
+          "id": "YrJ%7B",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月カテゴリー単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYM\") == {{notion:block_property:WKNE:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + 4 and current.{{notion:block_property:yFUG:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "5月",
+          "id": "Z%7Dnw",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月カテゴリー単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYM\") == {{notion:block_property:WKNE:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + 5 and current.{{notion:block_property:yFUG:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "6月",
+          "id": "DGf%3F",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月カテゴリー単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYM\") == {{notion:block_property:WKNE:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + 6 and current.{{notion:block_property:yFUG:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "7月",
+          "id": "oqc%5E",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月カテゴリー単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYM\") == {{notion:block_property:WKNE:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + 7 and current.{{notion:block_property:yFUG:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "8月",
+          "id": "%40%3C%5EN",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月カテゴリー単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYM\") == {{notion:block_property:WKNE:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + 8 and current.{{notion:block_property:yFUG:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "9月",
+          "id": "jrSs",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月カテゴリー単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYM\") == {{notion:block_property:WKNE:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + 9 and current.{{notion:block_property:yFUG:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "中間DB",
+          "id": "_~zk",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81f1-9510-e9f11e067dbb",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "予算金額",
+          "id": "S%60rk",
+          "type": "number"
+        },
+        {
+          "name": "合計",
+          "id": "OZUb",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年カテゴリー単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYY\") == {{notion:block_property:WKNE:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} and current.{{notion:block_property:yFUG:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8171-a50b-ff20b7fa8a18:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "年",
+          "id": "WKNE",
+          "type": "select"
+        },
+        {
+          "name": "背景色",
+          "id": "J%5BfD",
+          "type": "select"
+        },
+        {
+          "name": "集計テーブル",
+          "id": "Dc%5CR",
+          "type": "formula",
+          "formula_expression": " lets(\n\t/* 背景色とバーの幅を調整*/\n\tbar, style(\"　\", {{notion:block_property:J%5BfD:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n  per, {{notion:block_property:S%60rk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 各月の支出合計 */\n\tmonth_value, [{{notion:block_property:rIBa:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},{{notion:block_property:bZkR:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},{{notion:block_property:gBbJ:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},{{notion:block_property:YrJ%7B:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},{{notion:block_property:Z%7Dnw:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},{{notion:block_property:DGf%3F:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},{{notion:block_property:oqc%5E:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},{{notion:block_property:%40%3C%5EN:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},{{notion:block_property:jrSs:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},{{notion:block_property:rS~%60:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},{{notion:block_property:HppF:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},{{notion:block_property:HnLk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}],\n\tnumbers,[1,2,3,4,5,6,7,8,9,10,11,12], /* 月番号 */\n\t\n\tnumbers.map(\n\t\tlets(\n\t\t\tmonth, current, /* 月番号 */\n\t\t\tvalue, month_value.at(current-1), /* 月番号-1のindexでリストにアクセス */\n\t\t\t\n\t\t\t/* 3桁ごとにカンマを付ける */\n\t\t\tvalue_dot, value.format()\n\t\t\t\t.replace(\n\t\t\t\t\t\"(\\d+)(\\d{3})$\",\n\t\t\t\t\t\"$1,$2\"\n\t\t\t\t).replace(\n\t\t\t\t\t\"(\\d+)(\\d{3},\\d{3})$\",\n\t\t\t\t\t\"$1,$2\"\n\t\t\t\t),\n\t\t\t\t\n\t  /* グラフ描写 1-9月は整列のためスペースを入れる*/\n\t\tif(month < 10,\n\t\t\t\"  \" + month + \"月\" + repeat(bar, value/per) + \"  \" + value_dot+ \"円\",\n\t\t\t       month + \"月\" + repeat(bar, value/per) + \"  \" + value_dot+ \"円\"\n\t\t\t)\n\t\t)\n\t)\n).join(\"\\n\")\n"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-8130-b2df-d7dbd307fe6b",
+      "error": "400 Client Error: Bad Request for url: https://api.notion.com/v1/databases/2f2d8928-02b6-8130-b2df-d7dbd307fe6b"
+    },
+    {
+      "id": "2f2d8928-02b6-8146-95c7-d72c6520ef55",
+      "title": "ローン返済DB",
+      "url": "https://www.notion.so/2f2d892802b6814695c7d72c6520ef55",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "カテゴリー",
+          "id": "DpTk",
+          "type": "rich_text"
+        },
+        {
+          "name": "中間DB",
+          "id": "UM%5CZ",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81f1-9510-e9f11e067dbb",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "借入金",
+          "id": "%3A%3F%7Cy",
+          "type": "number"
+        },
+        {
+          "name": "日付",
+          "id": "%3B_Tf",
+          "type": "date"
+        },
+        {
+          "name": "詳細",
+          "id": "wg%7BG",
+          "type": "rich_text"
+        },
+        {
+          "name": "返済ID",
+          "id": "CY%5BR",
+          "type": "rich_text"
+        },
+        {
+          "name": "返済金",
+          "id": "p%5DW%3A",
+          "type": "number"
+        },
+        {
+          "name": "項目",
+          "id": "_VuE",
+          "type": "rich_text"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-8167-a9e2-cc44000843a0",
+      "title": "LIST",
+      "url": "https://www.notion.so/2f2d892802b68167a9e2cc44000843a0",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-8171-a50b-ff20b7fa8a18",
+      "title": "支出DB",
+      "url": "https://www.notion.so/2f2d892802b68171a50bff20b7fa8a18",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "AY",
+          "id": "jlhA",
+          "type": "checkbox"
+        },
+        {
+          "name": "カテゴリー",
+          "id": "yFUG",
+          "type": "select"
+        },
+        {
+          "name": "ローン",
+          "id": "V%3C_t",
+          "type": "button"
+        },
+        {
+          "name": "中間DB",
+          "id": "P%5BIz",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81f1-9510-e9f11e067dbb",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "店名",
+          "id": "iTl%7B",
+          "type": "select"
+        },
+        {
+          "name": "支出",
+          "id": "xlVt",
+          "type": "number"
+        },
+        {
+          "name": "日付",
+          "id": "%5CFpc",
+          "type": "date"
+        },
+        {
+          "name": "詳細",
+          "id": "mPVI",
+          "type": "rich_text"
+        },
+        {
+          "name": "貯蓄",
+          "id": "O%60%5Ea",
+          "type": "button"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-819f-b13a-c3489594732e",
+      "error": "400 Client Error: Bad Request for url: https://api.notion.com/v1/databases/2f2d8928-02b6-819f-b13a-c3489594732e"
+    },
+    {
+      "id": "2f2d8928-02b6-81ba-98bc-c475a7ddccb2",
+      "title": "B/S_DB",
+      "url": "https://www.notion.so/2f2d892802b681ba98bcc475a7ddccb2",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "TOTAL",
+          "id": "QQjx",
+          "type": "formula",
+          "formula_expression": "{{notion:block_property:S%3B%5DE:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}+{{notion:block_property:swj~:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}"
+        },
+        {
+          "name": "カテゴリー",
+          "id": "zF%60Y",
+          "type": "select"
+        },
+        {
+          "name": "ローン返済合計",
+          "id": "swj~",
+          "type": "formula",
+          "formula_expression": "lets(\n  /* リレーション→ロールアップ経由で元データ配列を取得 */\n  outcome, {{notion:block_property:rzsd:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.first().{{notion:block_property:%5BHGk:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\n  /* カテゴリー一致 ＆ 名前一致 で抽出 */\n  total,\n    outcome.filter(\n      current.{{notion:block_property:R_I%5B:2f2d8928-02b6-81d9-b320-c798810c7bc9:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:zF%60Y:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n\n    ),\n\n  /* 金額合計（数値でない場合に備えて toNumber） */\n  total.map(toNumber(current.{{notion:block_property:s%5CYV:2f2d8928-02b6-81d9-b320-c798810c7bc9:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}})).sum()\n)\n"
+        },
+        {
+          "name": "中間DB",
+          "id": "rzsd",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81f1-9510-e9f11e067dbb",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "日付",
+          "id": "aY%7Dm",
+          "type": "date"
+        },
+        {
+          "name": "背景色",
+          "id": "%3D%5CQl",
+          "type": "select"
+        },
+        {
+          "name": "貯蓄",
+          "id": "S%3B%5DE",
+          "type": "formula",
+          "formula_expression": "lets(\n  /* リレーション→ロールアップ経由で元データ配列を取得 */\n  outcome, {{notion:block_property:rzsd:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.first().{{notion:block_property:KL%5C_:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\n  /* カテゴリー一致 ＆ 名前一致 で抽出 */\n  total,\n    outcome.filter(\n      current.{{notion:block_property:P%3BZp:2f2d8928-02b6-81ba-9e41-cfd0d27dac0d:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:zF%60Y:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n      and current.{{notion:block_property:title:2f2d8928-02b6-81ba-9e41-cfd0d27dac0d:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n    ),\n\n  /* 金額合計（数値でない場合に備えて toNumber） */\n  total.map(toNumber(current.{{notion:block_property:jdRG:2f2d8928-02b6-81ba-9e41-cfd0d27dac0d:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}})).sum()\n)\n"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-81ba-9e41-cfd0d27dac0d",
+      "title": "貯蓄DB",
+      "url": "https://www.notion.so/2f2d892802b681ba9e41cfd0d27dac0d",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "カテゴリー",
+          "id": "P%3BZp",
+          "type": "select"
+        },
+        {
+          "name": "中間DB",
+          "id": "Suv%5E",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81f1-9510-e9f11e067dbb",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "同期",
+          "id": "Q%40%3Em",
+          "type": "button"
+        },
+        {
+          "name": "支出",
+          "id": "jdRG",
+          "type": "number"
+        },
+        {
+          "name": "日付",
+          "id": "IWvJ",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-81bb-9085-f2b4e4939e55",
+      "title": "",
+      "url": "https://www.notion.so/2f2d892802b681bb9085f2b4e4939e55",
+      "properties": [
+        {
+          "name": "Name",
+          "id": "title",
+          "type": "title"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-81c4-80bd-d58e9957e6e1",
+      "error": "400 Client Error: Bad Request for url: https://api.notion.com/v1/databases/2f2d8928-02b6-81c4-80bd-d58e9957e6e1"
+    },
+    {
+      "id": "2f2d8928-02b6-81d9-b320-c798810c7bc9",
+      "title": "ローンDB",
+      "url": "https://www.notion.so/2f2d892802b681d9b320c798810c7bc9",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "カテゴリー",
+          "id": "R_I%5B",
+          "type": "select"
+        },
+        {
+          "name": "ローンID",
+          "id": "%7DgOe",
+          "type": "unique_id"
+        },
+        {
+          "name": "中間DB",
+          "id": "%40_TO",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81f1-9510-e9f11e067dbb",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "借入金",
+          "id": "zw%5CH",
+          "type": "number"
+        },
+        {
+          "name": "日付",
+          "id": "%3AZrs",
+          "type": "date"
+        },
+        {
+          "name": "残返済金額合計_BS",
+          "id": "s%5CYV",
+          "type": "formula",
+          "formula_expression": "max(0, {{notion:block_property:zw%5CH:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} - toNumber({{notion:block_property:Nl%7De:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}))\n"
+        },
+        {
+          "name": "詳細",
+          "id": "xnCt",
+          "type": "rich_text"
+        },
+        {
+          "name": "返済",
+          "id": "I%3AGr",
+          "type": "button"
+        },
+        {
+          "name": "返済元金合計_BS",
+          "id": "Nl%7De",
+          "type": "formula",
+          "formula_expression": "lets(\n  rows, {{notion:block_property:%40_TO:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.first().{{notion:block_property:t%3AC%7D:2f2d8928-02b6-81f1-9510-e9f11e067dbb:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n  sum(\n    rows\n      .filter(current.{{notion:block_property:CY%5BR:2f2d8928-02b6-8146-95c7-d72c6520ef55:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:%7DgOe:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}})\n      .map(current.{{notion:block_property:p%5DW%3A:2f2d8928-02b6-8146-95c7-d72c6520ef55:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}})\n  )\n)\n"
+        },
+        {
+          "name": "項目",
+          "id": "~lUK",
+          "type": "rich_text"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-81f1-9510-e9f11e067dbb",
+      "title": "中間DB",
+      "url": "https://www.notion.so/2f2d892802b681f19510e9f11e067dbb",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "B/S_DB",
+          "id": "e%7D_~",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81ba-98bc-c475a7ddccb2",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "カテゴリー別集計",
+          "id": "%3F%5DAt",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-812d-9afb-d5c59976e253",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "ローンDB",
+          "id": "%5BHGk",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81d9-b320-c798810c7bc9",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "ローン返済DB",
+          "id": "t%3AC%7D",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-8146-95c7-d72c6520ef55",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "支出一覧",
+          "id": "tDPO",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-8171-a50b-ff20b7fa8a18",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "日別集計",
+          "id": "tfOz",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-8120-8269-d02a8d4ca934",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "月",
+          "id": "KnNx",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-8115-a87a-d43db1f010b6",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "貯蓄DB",
+          "id": "KL%5C_",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81ba-9e41-cfd0d27dac0d",
+          "synced_property_name": null,
+          "synced_property_id": null
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-81fb-93c6-dcc275d0b308",
+      "error": "400 Client Error: Bad Request for url: https://api.notion.com/v1/databases/2f2d8928-02b6-81fb-93c6-dcc275d0b308"
+    }
+  ]
+}

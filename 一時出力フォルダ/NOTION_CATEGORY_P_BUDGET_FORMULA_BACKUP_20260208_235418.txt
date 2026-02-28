@@ -1,0 +1,122 @@
+lets(
+  outcome, {{notion:block_property:_~zk:2f2d8928-02b6-8186-8a24-000b2130c151:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-8144-a239-000b56352fc9:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},
+  y, format({{notion:block_property:hyQt:2f2d8928-02b6-8186-8a24-000b2130c151:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),
+  mRaw, {{notion:block_property:elgH:2f2d8928-02b6-8186-8a24-000b2130c151:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},
+  mNum, toNumber(mRaw),
+  mText, if(empty(mRaw), "", if(mNum < 10, "0" + format(mNum), format(mNum))),
+  budget, if(empty({{notion:block_property:S%60rk:2f2d8928-02b6-8186-8a24-000b2130c151:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}), 0, {{notion:block_property:S%60rk:2f2d8928-02b6-8186-8a24-000b2130c151:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),
+
+  ym, y + "-" + mText,
+  febYm, y + "-02",
+  monthItems, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, "YYYY-MM") == ym),
+  monthAny, monthItems.at(0).{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},
+  monthStart, if(empty(monthAny), now(), dateSubtract(monthAny, toNumber(formatDate(monthAny, "D")) - 1, "days")),
+  week0StartM, dateSubtract(monthStart, toNumber(formatDate(monthStart, "E")) - 1, "days"),
+  nextMonthStart, dateAdd(monthStart, 1, "months"),
+  monthEnd, dateSubtract(nextMonthStart, 1, "days"),
+
+  w1, outcome.filter(
+    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, "YYYY-MM") == ym
+    and current.{{notion:block_property:yFUG:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:2f2d8928-02b6-8186-8a24-000b2130c151:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}
+    and lets(
+      d, current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},
+      monthStart, dateSubtract(d, toNumber(formatDate(d, "D")) - 1, "days"),
+      week0Start, dateSubtract(monthStart, toNumber(formatDate(monthStart, "E")) - 1, "days"),
+      floor(dateBetween(d, week0Start, "days") / 7) + 1
+    ) == 1
+  ).map(current.{{notion:block_property:xlVt:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum(),
+
+  w2, outcome.filter(
+    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, "YYYY-MM") == ym
+    and current.{{notion:block_property:yFUG:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:2f2d8928-02b6-8186-8a24-000b2130c151:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}
+    and lets(
+      d, current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},
+      monthStart, dateSubtract(d, toNumber(formatDate(d, "D")) - 1, "days"),
+      week0Start, dateSubtract(monthStart, toNumber(formatDate(monthStart, "E")) - 1, "days"),
+      floor(dateBetween(d, week0Start, "days") / 7) + 1
+    ) == 2
+  ).map(current.{{notion:block_property:xlVt:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum(),
+
+  w3, outcome.filter(
+    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, "YYYY-MM") == ym
+    and current.{{notion:block_property:yFUG:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:2f2d8928-02b6-8186-8a24-000b2130c151:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}
+    and lets(
+      d, current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},
+      monthStart, dateSubtract(d, toNumber(formatDate(d, "D")) - 1, "days"),
+      week0Start, dateSubtract(monthStart, toNumber(formatDate(monthStart, "E")) - 1, "days"),
+      floor(dateBetween(d, week0Start, "days") / 7) + 1
+    ) == 3
+  ).map(current.{{notion:block_property:xlVt:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum(),
+
+  w4, outcome.filter(
+    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, "YYYY-MM") == ym
+    and current.{{notion:block_property:yFUG:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:2f2d8928-02b6-8186-8a24-000b2130c151:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}
+    and lets(
+      d, current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},
+      monthStart, dateSubtract(d, toNumber(formatDate(d, "D")) - 1, "days"),
+      week0Start, dateSubtract(monthStart, toNumber(formatDate(monthStart, "E")) - 1, "days"),
+      floor(dateBetween(d, week0Start, "days") / 7) + 1
+    ) == 4
+  ).map(current.{{notion:block_property:xlVt:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum(),
+
+  w5, outcome.filter(
+    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, "YYYY-MM") == ym
+    and current.{{notion:block_property:yFUG:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:2f2d8928-02b6-8186-8a24-000b2130c151:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}
+    and lets(
+      d, current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},
+      monthStart, dateSubtract(d, toNumber(formatDate(d, "D")) - 1, "days"),
+      week0Start, dateSubtract(monthStart, toNumber(formatDate(monthStart, "E")) - 1, "days"),
+      floor(dateBetween(d, week0Start, "days") / 7) + 1
+    ) == 5
+  ).map(current.{{notion:block_property:xlVt:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum(),
+
+  w6, outcome.filter(
+    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, "YYYY-MM") == ym
+    and current.{{notion:block_property:yFUG:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:2f2d8928-02b6-8186-8a24-000b2130c151:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}
+    and lets(
+      d, current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},
+      monthStart, dateSubtract(d, toNumber(formatDate(d, "D")) - 1, "days"),
+      week0Start, dateSubtract(monthStart, toNumber(formatDate(monthStart, "E")) - 1, "days"),
+      floor(dateBetween(d, week0Start, "days") / 7) + 1
+    ) == 6
+  ).map(current.{{notion:block_property:xlVt:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum(),
+
+  febW1, if(
+    mNum == 1,
+    outcome.filter(
+      formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, "YYYY-MM") == febYm
+      and current.{{notion:block_property:yFUG:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:2f2d8928-02b6-8186-8a24-000b2130c151:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}
+      and lets(
+        d, current.{{notion:block_property:%5CFpc:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},
+        monthStart, dateSubtract(d, toNumber(formatDate(d, "D")) - 1, "days"),
+        week0Start, dateSubtract(monthStart, toNumber(formatDate(monthStart, "E")) - 1, "days"),
+        floor(dateBetween(d, week0Start, "days") / 7) + 1
+      ) == 1
+    ).map(current.{{notion:block_property:xlVt:2f2d8928-02b6-81e4-bd59-000b982df8db:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum(),
+    0
+  ),
+
+  w4Adj, if(mNum == 1 and w6 == 0 and w5 == 0, w4 + febW1, w4),
+  w5Adj, if(mNum == 1 and w6 == 0, w5 + febW1, w5),
+  w6Adj, if(mNum == 1 and w6 > 0, w6 + febW1, w6),
+
+  lastWeek, if(empty(monthAny), 5, floor(dateBetween(monthEnd, week0StartM, "days") / 7) + 1),
+
+  r1, budget - w1,
+  r2, budget - w2,
+  r3, budget - w3,
+  r4, budget - w4Adj,
+  r5, budget - w5Adj,
+  r6, budget - w6Adj,
+
+  lines, [
+    if(lastWeek >= 1, "W1: " + format(r1) + "円", ""),
+    if(lastWeek >= 2, "W2: " + format(r2) + "円", ""),
+    if(lastWeek >= 3, "W3: " + format(r3) + "円", ""),
+    if(lastWeek >= 4, "W4: " + format(r4) + "円", ""),
+    if(lastWeek >= 5, "W5: " + format(r5) + "円", ""),
+    if(lastWeek >= 6, "W6: " + format(r6) + "円", "")
+  ].filter(current != ""),
+
+  if(empty({{notion:block_property:hyQt:2f2d8928-02b6-8186-8a24-000b2130c151:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}) or empty(mRaw), "", join(lines, "\n"))
+)

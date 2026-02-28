@@ -1,0 +1,1266 @@
+{
+  "as_of": "2026-02-09T13:49:55",
+  "root_page_id": "2f2d8928-02b6-8098-b6e4-c96afa72c460",
+  "root_title": "CODEX_VER.1【2024年最新版】Notion家計簿",
+  "tree": [
+    {
+      "depth": 0,
+      "type": "callout",
+      "id": "2f2d8928-02b6-817a-9842-f681184ff3bc",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 1,
+      "type": "toggle",
+      "id": "2f2d8928-02b6-81af-a51f-fadd103b8a1a",
+      "text": "LINK",
+      "has_children": true
+    },
+    {
+      "depth": 2,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81bb-9b17-fd86ddfdc847",
+      "text": "CODEX_VER.1【2024年最新版】Notion家計簿 | | 支出DB_P | | 収入DB_P | | 月別集計DB_P | | 中間DB_P | | カテゴリー別集計_P | | カテゴリー別集計グラフ_P_V | | ",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81d9-bb26-fea8b565247f",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81db-bfc4-f16f250f5296",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "column_list",
+      "id": "2f2d8928-02b6-8141-99f3-e56aa6503734",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 1,
+      "type": "column",
+      "id": "2f2d8928-02b6-81e3-b6db-e419448f18cb",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 2,
+      "type": "heading_1",
+      "id": "2f2d8928-02b6-8174-a28f-e3bbc371be93",
+      "text": "🪙スマート登録",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-8120-8333-f51abec33417",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-81a4-9708-cb3bc40b9a00",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-8199-bc18-c0f7223e35c4",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-81a8-b96a-ce3cccba4f41",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-813b-8817-c7fe2924c93a",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-8195-b422-f255062d22e3",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "unsupported",
+      "id": "2f2d8928-02b6-81b3-a624-f3ba3c2411ca",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81d2-bcb9-d637706e260f",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 1,
+      "type": "column",
+      "id": "2f2d8928-02b6-81b5-bdca-e207eb65d4ca",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 2,
+      "type": "heading_1",
+      "id": "2f2d8928-02b6-81b1-92ce-e1ca8a698970",
+      "text": "💸最近の支出（10件）支出DB 収入DB ",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-814e-817e-e7640c56abc5",
+      "text": "Untitled",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81a1-ac37-e396e23ca41d",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "heading_1",
+      "id": "2f2d8928-02b6-81a8-ad36-cc36d2334603",
+      "text": "🗓️月別集計",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-81d9-b199-de9729cae7c2",
+      "text": "Untitled",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "heading_1",
+      "id": "2f2d8928-02b6-8113-b9ee-cbfef851050a",
+      "text": "🗃️カテゴリー別集計　カテゴリー別集計グラフ ",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-81a9-83e3-f5e97aca6f7d",
+      "text": "Untitled",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "divider",
+      "id": "2f2d8928-02b6-812e-bcc6-db8ccaf8804c",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "column_list",
+      "id": "2f2d8928-02b6-8139-9114-e25ea4a83577",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 1,
+      "type": "column",
+      "id": "2f2d8928-02b6-81a5-b1da-fc513b92d45a",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 2,
+      "type": "toggle",
+      "id": "2f2d8928-02b6-8164-a453-deb0f4f0cdfd",
+      "text": "データベース",
+      "has_children": true
+    },
+    {
+      "depth": 3,
+      "type": "child_page",
+      "id": "2f2d8928-02b6-814d-a80c-df358fcd3798",
+      "text": "支出DB_P",
+      "has_children": true
+    },
+    {
+      "depth": 4,
+      "type": "callout",
+      "id": "2f2d8928-02b6-8192-931b-d3ec024f9f23",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "toggle",
+      "id": "2f2d8928-02b6-816c-a8ec-f6dee7dc2afb",
+      "text": "LINK",
+      "has_children": true
+    },
+    {
+      "depth": 6,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8185-8979-c208cbfe14d7",
+      "text": "CODEX_VER.1【2024年最新版】Notion家計簿 | | 支出DB_P | | 収入DB_P | | 月別集計DB_P | | 中間DB_P | | カテゴリー別集計_P | | カテゴリー別集計グラフ_P_V | | ",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "divider",
+      "id": "2f2d8928-02b6-818d-827f-c7fe46ef7466",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "divider",
+      "id": "2f2d8928-02b6-8133-afe8-e160afc66a18",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "callout",
+      "id": "2f2d8928-02b6-81b2-80e6-c17ba962512c",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-8127-aa32-fa32a8b37d2d",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-8126-8d37-e1ebd985d759",
+      "text": "支出DB",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81cd-8d35-df20e95d1596",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81d7-9260-c0398248ef62",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81da-b84a-f75664904d21",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 3,
+      "type": "child_page",
+      "id": "2f2d8928-02b6-8184-911a-eeae26b0e0ae",
+      "text": "収入DB_P",
+      "has_children": true
+    },
+    {
+      "depth": 4,
+      "type": "callout",
+      "id": "2f2d8928-02b6-81d0-804f-da3598875d01",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "toggle",
+      "id": "2f2d8928-02b6-81ef-8187-e9ea63c7d578",
+      "text": "LINK",
+      "has_children": true
+    },
+    {
+      "depth": 6,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8192-ba70-ccd20d9fa567",
+      "text": "CODEX_VER.1【2024年最新版】Notion家計簿 | | 支出DB_P | | 収入DB_P | | 月別集計DB_P | | 中間DB_P | | カテゴリー別集計_P | | カテゴリー別集計グラフ_P_V | | ",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81d8-b67d-c94b507f83e7",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "divider",
+      "id": "2f2d8928-02b6-817f-948d-d1d1bcd82d88",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "callout",
+      "id": "2f2d8928-02b6-81a8-8724-fda1746cdb67",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-8177-9d6b-fe7e7b775a7f",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-8116-97ba-c39ccb83f913",
+      "text": "収入DB",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-8164-af50-cf50526318bd",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81fc-8d69-f3371b6538a1",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81f9-917b-f83e90715513",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 3,
+      "type": "child_page",
+      "id": "2f2d8928-02b6-818a-bad1-c3371dc3cf1d",
+      "text": "月別集計DB_P",
+      "has_children": true
+    },
+    {
+      "depth": 4,
+      "type": "callout",
+      "id": "2f2d8928-02b6-8107-9901-c0ea7a2f34a9",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "toggle",
+      "id": "2f2d8928-02b6-8114-b074-e3acb00b5881",
+      "text": "LINK",
+      "has_children": true
+    },
+    {
+      "depth": 6,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81f0-a9fd-fd9bb25c933c",
+      "text": "CODEX_VER.1【2024年最新版】Notion家計簿 | | 支出DB_P | | 収入DB_P | | 月別集計DB_P | | 中間DB_P | | カテゴリー別集計_P | | カテゴリー別集計グラフ_P_V | | ",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81bf-aa77-dc5e25e005a9",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "divider",
+      "id": "2f2d8928-02b6-8105-9646-e936e0a8e0af",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "callout",
+      "id": "2f2d8928-02b6-816e-8c73-c2c058bed383",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-8154-872a-d476ed392ac1",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-81b3-802c-f33a84340c29",
+      "text": "月別集計DB",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-816c-9416-d7b1ad0770d0",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8148-a6e3-c5a71a87c8ae",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81ec-afb7-ca9925b46e51",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 3,
+      "type": "child_page",
+      "id": "2f2d8928-02b6-810b-b6f0-ccf002079e7c",
+      "text": "カテゴリー別集計_P",
+      "has_children": true
+    },
+    {
+      "depth": 4,
+      "type": "callout",
+      "id": "2f2d8928-02b6-816d-9a01-ecdfb7831ce8",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "toggle",
+      "id": "2f2d8928-02b6-8152-bd85-d45c7d8cb4e4",
+      "text": "LINK",
+      "has_children": true
+    },
+    {
+      "depth": 6,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81a7-89e5-d1772050cf74",
+      "text": "CODEX_VER.1【2024年最新版】Notion家計簿 | | 支出DB_P | | 収入DB_P | | 月別集計DB_P | | 中間DB_P | | カテゴリー別集計_P | | カテゴリー別集計グラフ_P_V | | ",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81bb-9d8f-d58b90ad232f",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81be-a591-e3598fbe5c9c",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "callout",
+      "id": "2f2d8928-02b6-81a3-a81c-ca69d9af63e5",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81bb-a8a6-ed92f1970c91",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-81c9-a0d5-e9c6b64fb352",
+      "text": "カテゴリー別集計",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81bc-9455-d342da354d08",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-813b-8b82-d4a8a35f5f44",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "301d8928-02b6-8006-8956-e689d661bf3f",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "callout",
+      "id": "301d8928-02b6-807c-b7bd-cb9023cb2b49",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "child_database",
+      "id": "301d8928-02b6-809f-b27c-fb65dba785ff",
+      "text": "Untitled",
+      "has_children": false
+    },
+    {
+      "depth": 3,
+      "type": "child_page",
+      "id": "2f2d8928-02b6-8168-b1ba-e0c96b3c4af6",
+      "text": "中間DB_P",
+      "has_children": true
+    },
+    {
+      "depth": 4,
+      "type": "callout",
+      "id": "2f2d8928-02b6-8183-b75f-e3431cf0f0c0",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "toggle",
+      "id": "2f2d8928-02b6-8120-8183-f146ae2b2d4b",
+      "text": "LINK",
+      "has_children": true
+    },
+    {
+      "depth": 6,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8127-aac4-d90ca8a2ad20",
+      "text": "CODEX_VER.1【2024年最新版】Notion家計簿 | | 支出DB_P | | 収入DB_P | | 月別集計DB_P | | 中間DB_P | | カテゴリー別集計_P | | カテゴリー別集計グラフ_P_V | | ",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "divider",
+      "id": "2f2d8928-02b6-814c-b3e3-fe8abe8a5e67",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81b7-8af2-c2c0ac817723",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "callout",
+      "id": "2f2d8928-02b6-810c-a5bb-dfe41aeb0cfe",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-810e-ae73-c3b7d7afa27d",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-81f0-8d7c-ebba1e830552",
+      "text": "中間DB",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81ae-bd47-ee4f25c3ec6b",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81ba-a908-fb607b02b970",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-816a-ba9c-fa8adadab531",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "toggle",
+      "id": "2f2d8928-02b6-817d-8768-d7b3b944b571",
+      "text": "ビュー",
+      "has_children": true
+    },
+    {
+      "depth": 3,
+      "type": "child_page",
+      "id": "2f2d8928-02b6-8110-bd09-f1d8b6cb4809",
+      "text": "カテゴリー別集計グラフ_P_V",
+      "has_children": true
+    },
+    {
+      "depth": 4,
+      "type": "callout",
+      "id": "2f2d8928-02b6-81f5-8892-e8e0035167b5",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "toggle",
+      "id": "2f2d8928-02b6-81d2-933d-c74048ebb649",
+      "text": "LINK",
+      "has_children": true
+    },
+    {
+      "depth": 6,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8130-96f8-ee2a3f7b1172",
+      "text": "CODEX_VER.1【2024年最新版】Notion家計簿 | | 支出DB_P | | 収入DB_P | | 月別集計DB_P | | 中間DB_P | | カテゴリー別集計_P | | カテゴリー別集計グラフ_P_V | | ",
+      "has_children": false
+    },
+    {
+      "depth": 6,
+      "type": "divider",
+      "id": "2f2d8928-02b6-8115-b2af-c781e3e4f696",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81e9-9729-e8d2b33cd61e",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8155-a7d8-c19e790e5f7c",
+      "text": "BASE: カテゴリー別集計_P ",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "divider",
+      "id": "2f2d8928-02b6-8194-afa6-f665bd51cbfb",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "callout",
+      "id": "2f2d8928-02b6-8142-bd91-c0458ed83756",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-813c-9c64-f199d9b4ec9e",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "child_database",
+      "id": "2f2d8928-02b6-81f0-b544-cc35111df986",
+      "text": "カテゴリー別集計グラフ",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81b9-8d9f-c03e0eee32e7",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-815e-8a67-d3517c1ef39f",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8123-be22-ede027250f80",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "toggle",
+      "id": "2f2d8928-02b6-81fa-9839-d5a0419770de",
+      "text": "テンプレート",
+      "has_children": true
+    },
+    {
+      "depth": 3,
+      "type": "callout",
+      "id": "2f2d8928-02b6-816a-af09-d036dc24dd0d",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 4,
+      "type": "toggle",
+      "id": "2f2d8928-02b6-811a-b6a9-d2a56d24d4e8",
+      "text": "LINK",
+      "has_children": true
+    },
+    {
+      "depth": 5,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8172-b0bd-fc18e089a629",
+      "text": "CODEX_VER.1【2024年最新版】Notion家計簿 | | 支出DB_P | | 収入DB_P | | 月別集計DB_P | | 中間DB_P | | カテゴリー別集計_P | | カテゴリー別集計グラフ_P_V | | ",
+      "has_children": false
+    },
+    {
+      "depth": 5,
+      "type": "divider",
+      "id": "2f2d8928-02b6-8127-83bc-c7efd2e50d1c",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "divider",
+      "id": "2f2d8928-02b6-8102-80c5-ffb8adced46a",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8130-a7d1-c0c2f4b9f202",
+      "text": "BASE: カテゴリー別集計グラフ ",
+      "has_children": false
+    },
+    {
+      "depth": 3,
+      "type": "callout",
+      "id": "2f2d8928-02b6-81e7-b505-df468a75c715",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 4,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81b9-a9ce-ce879ff599cf",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8178-aaa4-dcddf645d87a",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81b9-86e1-dd904686f9ad",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8188-8b49-def6c1d5cbeb",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 3,
+      "type": "child_page",
+      "id": "2f2d8928-02b6-8144-92e2-e1a26f6f0310",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 4,
+      "type": "callout",
+      "id": "2f2d8928-02b6-8178-85ac-e48671f98305",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "divider",
+      "id": "2f2d8928-02b6-81a7-8935-f3d9962090bb",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 4,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81a2-b524-eb7eacad602c",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 2,
+      "type": "divider",
+      "id": "2f2d8928-02b6-813b-839a-f7c4d164d77c",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 1,
+      "type": "column",
+      "id": "2f2d8928-02b6-812c-8768-cf379cc5b63a",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "depth": 2,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-81a0-bb4f-fd72e7489e9f",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "depth": 0,
+      "type": "paragraph",
+      "id": "2f2d8928-02b6-8162-acb1-c9f555cd59f6",
+      "text": "",
+      "has_children": false
+    }
+  ],
+  "child_page_ids": [
+    "2f2d8928-02b6-810b-b6f0-ccf002079e7c",
+    "2f2d8928-02b6-8110-bd09-f1d8b6cb4809",
+    "2f2d8928-02b6-8144-92e2-e1a26f6f0310",
+    "2f2d8928-02b6-814d-a80c-df358fcd3798",
+    "2f2d8928-02b6-8168-b1ba-e0c96b3c4af6",
+    "2f2d8928-02b6-8184-911a-eeae26b0e0ae",
+    "2f2d8928-02b6-818a-bad1-c3371dc3cf1d"
+  ],
+  "database_schemas": [
+    {
+      "id": "2f2d8928-02b6-8116-97ba-c39ccb83f913",
+      "title": "収入DB",
+      "url": "https://www.notion.so/2f2d892802b6811697bac39ccb83f913",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "中間DB",
+          "id": "Q%5BZ%3B",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81f0-8d7c-ebba1e830552",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "収入",
+          "id": "FUmt",
+          "type": "number"
+        },
+        {
+          "name": "日付",
+          "id": "%7BUNn",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-8126-8d37-e1ebd985d759",
+      "title": "支出DB",
+      "url": "https://www.notion.so/2f2d892802b681268d37e1ebd985d759",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "カテゴリー",
+          "id": "yFUG",
+          "type": "select"
+        },
+        {
+          "name": "チケット",
+          "id": "ZDQ%5C",
+          "type": "formula",
+          "formula_expression": "ceil({{notion:block_property:xlVt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} / 500)"
+        },
+        {
+          "name": "中間DB",
+          "id": "P%5BIz",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81f0-8d7c-ebba1e830552",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "年月キー",
+          "id": "%5C%5EBG",
+          "type": "formula",
+          "formula_expression": "formatDate({{notion:block_property:%5CFpc:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYY-MM\")\n"
+        },
+        {
+          "name": "支出",
+          "id": "xlVt",
+          "type": "number"
+        },
+        {
+          "name": "日付",
+          "id": "%5CFpc",
+          "type": "date"
+        },
+        {
+          "name": "月内週",
+          "id": "%7BNcX",
+          "type": "formula",
+          "formula_expression": "lets(\n  d, {{notion:block_property:%5CFpc:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\n  /* 当月の1日 */\n  monthStart, dateSubtract(d, toNumber(formatDate(d, \"D\")) - 1, \"days\"),\n\n  /* 月曜始まり：その週の月曜(=週の先頭) */\n  week0Start, dateSubtract(monthStart, toNumber(formatDate(monthStart, \"E\")) - 1, \"days\"),\n\n  /* monthStartを含む週を「週1」とし、以降+1 */\n  floor(dateBetween(d, week0Start, \"days\") / 7) + 1\n)\n"
+        },
+        {
+          "name": "週番号",
+          "id": "NFSK",
+          "type": "formula",
+          "formula_expression": "if(\n  empty({{notion:block_property:%5CFpc:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n  \"\",\n  lets(\n    d, {{notion:block_property:%5CFpc:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\n    /* その日の年の 1/1 を作る（DDD=day of year を利用して戻す） */\n    jan1, dateSubtract(d, toNumber(formatDate(d, \"DDD\")) - 1, \"days\"),\n\n    /* 「jan1 が属する週」の週頭（月曜） */\n    firstWeekStart, dateSubtract(jan1, toNumber(formatDate(jan1, \"E\")) - 1, \"days\"),\n\n    /* 週番号（1始まり） */\n    w, floor(dateBetween(d, firstWeekStart, \"days\") / 7) + 1,\n\n    /* 2023-W01 みたいにゼロ埋め */\n    formatDate(d, \"YYYY\") + \"-W\" + if(w < 10, \"0\" + format(w), format(w))\n  )\n)\n"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-814e-817e-e7640c56abc5",
+      "error": "400 Client Error: Bad Request for url: https://api.notion.com/v1/databases/2f2d8928-02b6-814e-817e-e7640c56abc5"
+    },
+    {
+      "id": "2f2d8928-02b6-81a9-83e3-f5e97aca6f7d",
+      "error": "400 Client Error: Bad Request for url: https://api.notion.com/v1/databases/2f2d8928-02b6-81a9-83e3-f5e97aca6f7d"
+    },
+    {
+      "id": "2f2d8928-02b6-81b3-802c-f33a84340c29",
+      "title": "月別集計DB",
+      "url": "https://www.notion.so/2f2d892802b681b3802cf33a84340c29",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "中間DB",
+          "id": "ZM%7Ci",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81f0-8d7c-ebba1e830552",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "予算",
+          "id": "%7BcA%40",
+          "type": "number"
+        },
+        {
+          "name": "収入 - 支出",
+          "id": "ehgI",
+          "type": "formula",
+          "formula_expression": "{{notion:block_property:FavK:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} - {{notion:block_property:KXX%3F:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}"
+        },
+        {
+          "name": "収入合計",
+          "id": "FavK",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\tincome,{{notion:block_property:ZM%7Ci:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:POmq:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月単位でデータをフィルター */\n\ttotal, income.filter(formatDate(current.{{notion:block_property:%7BUNn:2f2d8928-02b6-8116-97ba-c39ccb83f913:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == {{notion:block_property:sxPi:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + {{notion:block_property:%60%3ABy:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 収入を合計 */\n\tprice, total.map(current.{{notion:block_property:FUmt:2f2d8928-02b6-8116-97ba-c39ccb83f913:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "年",
+          "id": "sxPi",
+          "type": "select"
+        },
+        {
+          "name": "支出 / 予算",
+          "id": "%3DwOY",
+          "type": "formula",
+          "formula_expression": "floor({{notion:block_property:KXX%3F:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} / {{notion:block_property:%7BcA%40:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} * 100) / 100"
+        },
+        {
+          "name": "支出 / 収入",
+          "id": "QMnZ",
+          "type": "formula",
+          "formula_expression": "floor({{notion:block_property:KXX%3F:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} / {{notion:block_property:FavK:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} * 100) / 100"
+        },
+        {
+          "name": "支出合計",
+          "id": "KXX%3F",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome,{{notion:block_property:ZM%7Ci:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年月単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == {{notion:block_property:sxPi:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} + {{notion:block_property:%60%3ABy:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "月",
+          "id": "%60%3ABy",
+          "type": "rich_text"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-81c9-a0d5-e9c6b64fb352",
+      "title": "カテゴリー別集計",
+      "url": "https://www.notion.so/2f2d892802b681c9a0d5e9c6b64fb352",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "10月",
+          "id": "rS~%60",
+          "type": "formula",
+          "formula_expression": "lets(\n  outcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n  y, replaceAll(format({{notion:block_property:hyQt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0)), \"[^0-9]\", \"\"),\n  m, 10,\n  ym, y + if(m < 10, \"0\" + format(m), format(m)),\n  total, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n  ),\n  total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum()\n)"
+        },
+        {
+          "name": "11月",
+          "id": "HppF",
+          "type": "formula",
+          "formula_expression": "lets(\n  outcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n  y, replaceAll(format({{notion:block_property:hyQt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0)), \"[^0-9]\", \"\"),\n  m, 11,\n  ym, y + if(m < 10, \"0\" + format(m), format(m)),\n  total, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n  ),\n  total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum()\n)"
+        },
+        {
+          "name": "12月",
+          "id": "HnLk",
+          "type": "formula",
+          "formula_expression": "lets(\n  outcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n  y, replaceAll(format({{notion:block_property:hyQt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0)), \"[^0-9]\", \"\"),\n  m, 12,\n  ym, y + if(m < 10, \"0\" + format(m), format(m)),\n  total, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n  ),\n  total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum()\n)"
+        },
+        {
+          "name": "1月",
+          "id": "rIBa",
+          "type": "formula",
+          "formula_expression": "lets(\n  outcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n  y, replaceAll(format({{notion:block_property:hyQt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0)), \"[^0-9]\", \"\"),\n  m, 1,\n  ym, y + if(m < 10, \"0\" + format(m), format(m)),\n  total, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n  ),\n  total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum()\n)"
+        },
+        {
+          "name": "2月",
+          "id": "bZkR",
+          "type": "formula",
+          "formula_expression": "lets(\n  outcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n  y, replaceAll(format({{notion:block_property:hyQt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0)), \"[^0-9]\", \"\"),\n  m, 2,\n  ym, y + if(m < 10, \"0\" + format(m), format(m)),\n  total, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n  ),\n  total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum()\n)"
+        },
+        {
+          "name": "3月",
+          "id": "gBbJ",
+          "type": "formula",
+          "formula_expression": "lets(\n  outcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n  y, replaceAll(format({{notion:block_property:hyQt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0)), \"[^0-9]\", \"\"),\n  m, 3,\n  ym, y + if(m < 10, \"0\" + format(m), format(m)),\n  total, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n  ),\n  total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum()\n)"
+        },
+        {
+          "name": "4月",
+          "id": "YrJ%7B",
+          "type": "formula",
+          "formula_expression": "lets(\n  outcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n  y, replaceAll(format({{notion:block_property:hyQt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0)), \"[^0-9]\", \"\"),\n  m, 4,\n  ym, y + if(m < 10, \"0\" + format(m), format(m)),\n  total, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n  ),\n  total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum()\n)"
+        },
+        {
+          "name": "5月",
+          "id": "Z%7Dnw",
+          "type": "formula",
+          "formula_expression": "lets(\n  outcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n  y, replaceAll(format({{notion:block_property:hyQt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0)), \"[^0-9]\", \"\"),\n  m, 5,\n  ym, y + if(m < 10, \"0\" + format(m), format(m)),\n  total, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n  ),\n  total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum()\n)"
+        },
+        {
+          "name": "6月",
+          "id": "DGf%3F",
+          "type": "formula",
+          "formula_expression": "lets(\n  outcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n  y, replaceAll(format({{notion:block_property:hyQt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0)), \"[^0-9]\", \"\"),\n  m, 6,\n  ym, y + if(m < 10, \"0\" + format(m), format(m)),\n  total, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n  ),\n  total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum()\n)"
+        },
+        {
+          "name": "7月",
+          "id": "oqc%5E",
+          "type": "formula",
+          "formula_expression": "lets(\n  outcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n  y, replaceAll(format({{notion:block_property:hyQt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0)), \"[^0-9]\", \"\"),\n  m, 7,\n  ym, y + if(m < 10, \"0\" + format(m), format(m)),\n  total, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n  ),\n  total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum()\n)"
+        },
+        {
+          "name": "8月",
+          "id": "%40%3C%5EN",
+          "type": "formula",
+          "formula_expression": "lets(\n  outcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n  y, replaceAll(format({{notion:block_property:hyQt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0)), \"[^0-9]\", \"\"),\n  m, 8,\n  ym, y + if(m < 10, \"0\" + format(m), format(m)),\n  total, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n  ),\n  total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum()\n)"
+        },
+        {
+          "name": "9月",
+          "id": "jrSs",
+          "type": "formula",
+          "formula_expression": "lets(\n  outcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n  y, replaceAll(format({{notion:block_property:hyQt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0)), \"[^0-9]\", \"\"),\n  m, 9,\n  ym, y + if(m < 10, \"0\" + format(m), format(m)),\n  total, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYYMM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n  ),\n  total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum()\n)"
+        },
+        {
+          "name": "中間DB",
+          "id": "_~zk",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81f0-8d7c-ebba1e830552",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "予算",
+          "id": "D%5EC%3C",
+          "type": "formula",
+          "formula_expression": "lets(\n  outcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n  y, replaceAll(format({{notion:block_property:hyQt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0)), \"[^0-9]\", \"\"),\n  mNum, toNumber(replaceAll(format({{notion:block_property:elgH:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0)), \"[^0-9]\", \"\")),\n  mText, if(mNum == 0, \"\", if(mNum < 10, \"0\" + format(mNum), format(mNum))),\n  budget, if(empty({{notion:block_property:S%60rk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}), 0, {{notion:block_property:S%60rk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n  bar, style(\"　\", {{notion:block_property:J%5BfD:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n  scale, 10,\n\n  ym, y + \"-\" + mText,\n  febYm, y + \"-02\",\n  monthStart, parseDate(ym + \"-01\"),\n  offsetSun, if(toNumber(formatDate(monthStart, \"E\")) == 7, 0, toNumber(formatDate(monthStart, \"E\"))),\n  week0StartM, dateSubtract(monthStart, offsetSun, \"days\"),\n  nextMonthStart, dateAdd(monthStart, 1, \"months\"),\n  monthEnd, dateSubtract(nextMonthStart, 1, \"days\"),\n  weekCount, floor(dateBetween(monthEnd, week0StartM, \"days\") / 7) + 1,\n\n  w1, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYY-MM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n    and lets(\n      d, current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n      monthStartD, dateSubtract(d, toNumber(formatDate(d, \"D\")) - 1, \"days\"),\n      offsetSunD, if(toNumber(formatDate(monthStartD, \"E\")) == 7, 0, toNumber(formatDate(monthStartD, \"E\"))),\n      week0Start, dateSubtract(monthStartD, offsetSunD, \"days\"),\n      floor(dateBetween(d, week0Start, \"days\") / 7) + 1\n    ) == 1\n  ).map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum(),\n\n  w2, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYY-MM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n    and lets(\n      d, current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n      monthStartD, dateSubtract(d, toNumber(formatDate(d, \"D\")) - 1, \"days\"),\n      offsetSunD, if(toNumber(formatDate(monthStartD, \"E\")) == 7, 0, toNumber(formatDate(monthStartD, \"E\"))),\n      week0Start, dateSubtract(monthStartD, offsetSunD, \"days\"),\n      floor(dateBetween(d, week0Start, \"days\") / 7) + 1\n    ) == 2\n  ).map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum(),\n\n  w3, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYY-MM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n    and lets(\n      d, current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n      monthStartD, dateSubtract(d, toNumber(formatDate(d, \"D\")) - 1, \"days\"),\n      offsetSunD, if(toNumber(formatDate(monthStartD, \"E\")) == 7, 0, toNumber(formatDate(monthStartD, \"E\"))),\n      week0Start, dateSubtract(monthStartD, offsetSunD, \"days\"),\n      floor(dateBetween(d, week0Start, \"days\") / 7) + 1\n    ) == 3\n  ).map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum(),\n\n  w4, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYY-MM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n    and lets(\n      d, current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n      monthStartD, dateSubtract(d, toNumber(formatDate(d, \"D\")) - 1, \"days\"),\n      offsetSunD, if(toNumber(formatDate(monthStartD, \"E\")) == 7, 0, toNumber(formatDate(monthStartD, \"E\"))),\n      week0Start, dateSubtract(monthStartD, offsetSunD, \"days\"),\n      floor(dateBetween(d, week0Start, \"days\") / 7) + 1\n    ) == 4\n  ).map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum(),\n\n  w5, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYY-MM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n    and lets(\n      d, current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n      monthStartD, dateSubtract(d, toNumber(formatDate(d, \"D\")) - 1, \"days\"),\n      offsetSunD, if(toNumber(formatDate(monthStartD, \"E\")) == 7, 0, toNumber(formatDate(monthStartD, \"E\"))),\n      week0Start, dateSubtract(monthStartD, offsetSunD, \"days\"),\n      floor(dateBetween(d, week0Start, \"days\") / 7) + 1\n    ) == 5\n  ).map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum(),\n\n  w6, outcome.filter(\n    formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYY-MM\") == ym\n    and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n    and lets(\n      d, current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n      monthStartD, dateSubtract(d, toNumber(formatDate(d, \"D\")) - 1, \"days\"),\n      offsetSunD, if(toNumber(formatDate(monthStartD, \"E\")) == 7, 0, toNumber(formatDate(monthStartD, \"E\"))),\n      week0Start, dateSubtract(monthStartD, offsetSunD, \"days\"),\n      floor(dateBetween(d, week0Start, \"days\") / 7) + 1\n    ) == 6\n  ).map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum(),\n\n  febW1, if(\n    mNum == 1,\n    outcome.filter(\n      formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYY-MM\") == febYm\n      and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}\n      and lets(\n        d, current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n        monthStartD, dateSubtract(d, toNumber(formatDate(d, \"D\")) - 1, \"days\"),\n        offsetSunD, if(toNumber(formatDate(monthStartD, \"E\")) == 7, 0, toNumber(formatDate(monthStartD, \"E\"))),\n        week0Start, dateSubtract(monthStartD, offsetSunD, \"days\"),\n        floor(dateBetween(d, week0Start, \"days\") / 7) + 1\n      ) == 1\n    ).map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}).sum(),\n    0\n  ),\n\n  w4Adj, if(mNum == 1 and weekCount == 4, w4 + febW1, w4),\n  w5Adj, if(mNum == 1 and weekCount == 5, w5 + febW1, w5),\n  w6Adj, if(mNum == 1 and weekCount == 6, w6 + febW1, w6),\n\n  r1, budget - w1,\n  r2, budget - w2,\n  r3, budget - w3,\n  r4, budget - w4Adj,\n  r5, budget - w5Adj,\n  r6, budget - w6Adj,\n\n  a1, if(r1 < 0, 0, r1),\n  a2, if(r2 < 0, 0, r2),\n  a3, if(r3 < 0, 0, r3),\n  a4, if(r4 < 0, 0, r4),\n  a5, if(r5 < 0, 0, r5),\n  a6, if(r6 < 0, 0, r6),\n\n  d1, floor(a1 / 5000),\n  d2, floor(a2 / 5000),\n  d3, floor(a3 / 5000),\n  d4, floor(a4 / 5000),\n  d5, floor(a5 / 5000),\n  d6, floor(a6 / 5000),\n\n  t1, if(a1 == 0, 0, ceil((a1 - d1 * 5000) / 500)),\n  t2, if(a2 == 0, 0, ceil((a2 - d2 * 5000) / 500)),\n  t3, if(a3 == 0, 0, ceil((a3 - d3 * 5000) / 500)),\n  t4, if(a4 == 0, 0, ceil((a4 - d4 * 5000) / 500)),\n  t5, if(a5 == 0, 0, ceil((a5 - d5 * 5000) / 500)),\n  t6, if(a6 == 0, 0, ceil((a6 - d6 * 5000) / 500)),\n\n  s1, if(budget <= 0, 0, if(a1 / budget >= 1, scale, ceil(a1 / budget * scale))),\n  s2, if(budget <= 0, 0, if(a2 / budget >= 1, scale, ceil(a2 / budget * scale))),\n  s3, if(budget <= 0, 0, if(a3 / budget >= 1, scale, ceil(a3 / budget * scale))),\n  s4, if(budget <= 0, 0, if(a4 / budget >= 1, scale, ceil(a4 / budget * scale))),\n  s5, if(budget <= 0, 0, if(a5 / budget >= 1, scale, ceil(a5 / budget * scale))),\n  s6, if(budget <= 0, 0, if(a6 / budget >= 1, scale, ceil(a6 / budget * scale))),\n\n  lines, [\n    if(weekCount >= 1, \"W1  残🎟️\" + format(t1) + \"  💎\" + format(d1) + \"  \" + repeat(bar, s1), \"\"),\n    if(weekCount >= 2, \"W2  残🎟️\" + format(t2) + \"  💎\" + format(d2) + \"  \" + repeat(bar, s2), \"\"),\n    if(weekCount >= 3, \"W3  残🎟️\" + format(t3) + \"  💎\" + format(d3) + \"  \" + repeat(bar, s3), \"\"),\n    if(weekCount >= 4, \"W4  残🎟️\" + format(t4) + \"  💎\" + format(d4) + \"  \" + repeat(bar, s4), \"\"),\n    if(weekCount >= 5, \"W5  残🎟️\" + format(t5) + \"  💎\" + format(d5) + \"  \" + repeat(bar, s5), \"\"),\n    if(weekCount >= 6, \"W6  残🎟️\" + format(t6) + \"  💎\" + format(d6) + \"  \" + repeat(bar, s6), \"\")\n  ].filter(current != \"\"),\n\n  if(\n    empty(y) or mNum == 0,\n    \"\",\n    join(lines, \"\\n\")\n  )\n)"
+        },
+        {
+          "name": "年予算",
+          "id": "UJL%40",
+          "type": "number"
+        },
+        {
+          "name": "年合計",
+          "id": "OZUb",
+          "type": "formula",
+          "formula_expression": "lets(\n\t\n\t/* 中間DBから全ての支出データを取得 */\n\toutcome, {{notion:block_property:_~zk:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}.at(0).{{notion:block_property:tDPO:2f2d8928-02b6-81f0-8d7c-ebba1e830552:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}},\n\t\n\t/* 年カテゴリー単位でデータをフィルター */\n\ttotal, outcome.filter(formatDate(current.{{notion:block_property:%5CFpc:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}, \"YYYY\") == ({{notion:block_property:hyQt:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}) and current.{{notion:block_property:yFUG:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}} == {{notion:block_property:title:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\t\n\t/* 支出を合計 */\n\tprice, total.map(current.{{notion:block_property:xlVt:2f2d8928-02b6-8126-8d37-e1ebd985d759:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n\tprice.sum()\n)"
+        },
+        {
+          "name": "背景色",
+          "id": "J%5BfD",
+          "type": "select"
+        },
+        {
+          "name": "週予算",
+          "id": "S%60rk",
+          "type": "number"
+        },
+        {
+          "name": "選択年",
+          "id": "hyQt",
+          "type": "rollup",
+          "rollup_relation_property_name": "中間DB",
+          "rollup_relation_property_id": "_~zk",
+          "rollup_property_name": "選択年",
+          "rollup_property_id": "?Yzl",
+          "rollup_function": "show_original"
+        },
+        {
+          "name": "選択月",
+          "id": "elgH",
+          "type": "rollup",
+          "rollup_relation_property_name": "中間DB",
+          "rollup_relation_property_id": "_~zk",
+          "rollup_property_name": "選択月",
+          "rollup_property_id": ":NK[",
+          "rollup_function": "show_original"
+        },
+        {
+          "name": "集計テーブル",
+          "id": "Dc%5CR",
+          "type": "formula",
+          "formula_expression": " lets(\n\t/* 背景色とバーの幅を調整*/\n\tbar, style(\"　\", {{notion:block_property:J%5BfD:00000000-0000-0000-0000-000000000000:cdc5a971-a08d-4e2e-bdb1-d57c7d4d4f45}}),\n  per, prop(\"予算金額\"),\n\t\n\t/* 各月の支出合計 */\n\tmonth_value, [prop(\"1月\"),prop(\"2月\"),prop(\"3月\"),prop(\"4月\"),prop(\"5月\"),prop(\"6月\"),prop(\"7月\"),prop(\"8月\"),prop(\"9月\"),prop(\"10月\"),prop(\"11月\"),prop(\"12月\")],\n\tnumbers,[1,2,3,4,5,6,7,8,9,10,11,12], /* 月番号 */\n\t\n\tnumbers.map(\n\t\tlets(\n\t\t\tmonth, current, /* 月番号 */\n\t\t\tvalue, month_value.at(current-1), /* 月番号-1のindexでリストにアクセス */\n\t\t\t\n\t\t\t/* 3桁ごとにカンマを付ける */\n\t\t\tvalue_dot, value.format()\n\t\t\t\t.replace(\n\t\t\t\t\t\"(\\d+)(\\d{3})$\",\n\t\t\t\t\t\"$1,$2\"\n\t\t\t\t).replace(\n\t\t\t\t\t\"(\\d+)(\\d{3},\\d{3})$\",\n\t\t\t\t\t\"$1,$2\"\n\t\t\t\t),\n\t\t\t\t\n\t  /* グラフ描写 1-9月は整列のためスペースを入れる*/\n\t\tif(month < 10,\n\t\t\t\"  \" + month + \"月\" + repeat(bar, value/per) + \"  \" + value_dot+ \"円\",\n\t\t\t       month + \"月\" + repeat(bar, value/per) + \"  \" + value_dot+ \"円\"\n\t\t\t)\n\t\t)\n\t)\n).join(\"\\n\")\n"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-81d9-b199-de9729cae7c2",
+      "error": "400 Client Error: Bad Request for url: https://api.notion.com/v1/databases/2f2d8928-02b6-81d9-b199-de9729cae7c2"
+    },
+    {
+      "id": "2f2d8928-02b6-81f0-8d7c-ebba1e830552",
+      "title": "中間DB",
+      "url": "https://www.notion.so/2f2d892802b681f08d7cebba1e830552",
+      "properties": [
+        {
+          "name": "名前",
+          "id": "title",
+          "type": "title"
+        },
+        {
+          "name": "カテゴリー別集計",
+          "id": "%3F%5DAt",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81c9-a0d5-e9c6b64fb352",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "収入一覧",
+          "id": "POmq",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-8116-97ba-c39ccb83f913",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "支出一覧",
+          "id": "tDPO",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-8126-8d37-e1ebd985d759",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "月",
+          "id": "KnNx",
+          "type": "relation",
+          "relation_database_id": "2f2d8928-02b6-81b3-802c-f33a84340c29",
+          "synced_property_name": null,
+          "synced_property_id": null
+        },
+        {
+          "name": "選択年",
+          "id": "%3FYzl",
+          "type": "select"
+        },
+        {
+          "name": "選択月",
+          "id": "%3ANK%5B",
+          "type": "select"
+        }
+      ]
+    },
+    {
+      "id": "2f2d8928-02b6-81f0-b544-cc35111df986",
+      "error": "400 Client Error: Bad Request for url: https://api.notion.com/v1/databases/2f2d8928-02b6-81f0-b544-cc35111df986"
+    },
+    {
+      "id": "301d8928-02b6-809f-b27c-fb65dba785ff",
+      "error": "400 Client Error: Bad Request for url: https://api.notion.com/v1/databases/301d8928-02b6-809f-b27c-fb65dba785ff"
+    }
+  ]
+}

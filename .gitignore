@@ -42,6 +42,18 @@ build/
 coverage/
 
 # ==========================================
+# Python & Cache
+# ==========================================
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ==========================================
 # Environment & Secrets (Security)
 # ==========================================
 .env
@@ -50,18 +62,22 @@ coverage/
 .env.test.local
 .env.production.local
 *.pem
+.agent/secure/
+!.agent/secure/README.md
 
 # ==========================================
 # Logs
 # ==========================================
 *.log
 logs/
+runs/
 
 # ==========================================
 # Project Specific / Temporary Workspace
 # ==========================================
 YOROZU_PROJECT/
 tmp/
+/tmp_*
 
 # ==========================================
 # Agent & Workflow Artifacts
